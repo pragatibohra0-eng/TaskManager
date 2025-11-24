@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Math Assignment 1",
+        "category": "Assignment",
+        "deadline": "2025-11-28",
+        "status": "Pending"
+    },
+    {
+        "title": "Physics Exam Study",
+        "category": "Exam",
+        "deadline": "2025-11-25",
+        "status": "Pending"
+    },
+    {
+        "title": "Project Proposal",
+        "category": "Project",
+        "deadline": "2025-12-02",
+        "status": "Completed"
+    }
+]
